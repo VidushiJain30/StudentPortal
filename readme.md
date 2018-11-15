@@ -1,1 +1,1 @@
-This is a portal for student.
+This is a Portal for student.
